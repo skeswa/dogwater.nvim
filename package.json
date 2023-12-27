@@ -1,0 +1,14 @@
+{
+  "name": "dogwater.nvim",
+  "type": "module",
+  "devDependencies": {
+    "@types/color-convert": "^2.0.3",
+    "@types/xml2js": "^0.4.14",
+    "bun-types": "latest",
+    "color-convert": "^2.0.1",
+    "xml2js": "^0.6.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
