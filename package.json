@@ -1,6 +1,9 @@
 {
   "name": "dogwater.nvim",
   "type": "module",
+  "scripts": {
+    "palette:gen": "bun ./scripts/generate-palette.ts"
+  },
   "devDependencies": {
     "@types/color-convert": "^2.0.3",
     "@types/xml2js": "^0.4.14",
